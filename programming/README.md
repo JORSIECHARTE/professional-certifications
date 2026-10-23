@@ -54,7 +54,7 @@ This directory contains certificates documenting my completed training in Python
 - **Course:** Matemática para IA
 - **Focus:** Mathematical foundations for artificial intelligence
 
-[View Certificate](Matem%C3%A1tica%20para%20IA.pdf)
+[View Certificate](Joaquin%20Maria%20Orsi%20Echarte%20-%20Matem%C3%A1tica%20para%20IA.pdf)
 
 ---
 
