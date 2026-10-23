@@ -2,9 +2,9 @@
 
 Welcome to my professional certifications repository.
 
-I specialize in developing my technical expertise in **cybersecurity, ethical hacking, Python automation, and software development**, combining formal training with practical projects.
+My technical background focuses on **cybersecurity, ethical hacking, network security, Python automation, and software development**, combining structured professional education with hands-on technical projects.
 
-This repository showcases my completed certifications and professional training from institutions including **Universidad Tecnológica Nacional (UTN), Google, Digital House, and the Government of Buenos Aires**.
+This repository showcases my completed certifications and training from institutions including **Universidad Tecnológica Nacional (UTN), Google, Digital House, and the Government of Buenos Aires**.
 
 ---
 
@@ -12,7 +12,7 @@ This repository showcases my completed certifications and professional training 
 
 | Category | Focus |
 |---|---|
-| [Cybersecurity](cybersecurity/) | Ethical hacking, network security, security operations, and vulnerability assessment |
+| [Cybersecurity](cybersecurity/) | Ethical hacking, network security, vulnerability assessment, and security operations |
 | [Programming & Web Development](programming/) | Python, full-stack development, web design, data visualization, and AI mathematics |
 | [Databases](databases/) | Database analysis and NoSQL technologies |
 | [Digital Skills](digital-skills/) | Microsoft applications, digital tools, and professional development |
@@ -26,7 +26,7 @@ This repository showcases my completed certifications and professional training 
 | [Ethical Hacking – University Expert Program](cybersecurity/UTN_Ethical_Hacking_Certificate_Public.pdf) | Universidad Tecnológica Nacional (UTN) | 2026 |
 | [Google Cybersecurity Professional Certificate](cybersecurity/Google%20Cybersecurity.pdf) | Google / Coursera | 2026 |
 
-**Google Credential:** [Official Verification](https://coursera.org/verify/professional-cert/OKWMLXEBZ1X5)
+**Google Credential Verification:** [Verify Certificate](https://coursera.org/verify/professional-cert/OKWMLXEBZ1X5)
 
 ---
 
@@ -62,13 +62,16 @@ This repository showcases my completed certifications and professional training 
 ## Technical Expertise & Training
 
 ### Cybersecurity
+
 - Ethical hacking and vulnerability assessment
-- Network security and security analysis
+- Network security and traffic analysis
 - Linux and security operations
 - SIEM and intrusion detection fundamentals
-- Python security automation
+- Security automation with Python
+- System hardening and defensive security
 
 ### Software Development
+
 - Python programming and automation
 - Full-stack and backend development
 - Web development and design
@@ -76,6 +79,7 @@ This repository showcases my completed certifications and professional training 
 - SQL and NoSQL databases
 
 ### Additional Technical Skills
+
 - Digital productivity tools
 - Project management fundamentals
 - Mathematics for artificial intelligence
@@ -86,7 +90,9 @@ This repository showcases my completed certifications and professional training 
 
 ### [Aegis Security Toolkit](https://github.com/JORSIECHARTE/Aegis-Security-Toolkit)
 
-A Python-based cybersecurity application featuring:
+A Python-based cybersecurity application designed to support practical security analysis and automation.
+
+**Key Features:**
 
 - Network port scanning and service identification
 - Password strength analysis
@@ -96,29 +102,33 @@ A Python-based cybersecurity application featuring:
 
 **Tech Stack:** Python, Streamlit, SQLite.
 
-### [School Education Platform](https://github.com/JORSIECHARTE/school-education-platform)
+### [Cybersecurity Labs](https://github.com/JORSIECHARTE/cybersecurity-labs)
 
-A modular backend platform for educational management featuring:
+Hands-on cybersecurity labs focused on practical learning, technical experimentation, and security analysis.
 
-- REST API architecture
-- Authentication and authorization
-- PostgreSQL database integration
-- Domain-driven application structure
-- Automated testing and Docker integration
+**Focus Areas:**
 
-**Tech Stack:** Node.js, TypeScript, Fastify, PostgreSQL, Docker.
+- Network security
+- Web security
+- Offensive security
+- Defensive analysis
+- System hardening
+
+The repository documents hands-on exercises and practical cybersecurity training.
 
 ---
 
 ## Professional Profiles
 
-- [GitHub – JORSIECHARTE](https://github.com/JORSIECHARTE)
-- [LinkedIn – Professional Profile](https://www.linkedin.com/in/joaquin-orsi-echarte/)
+- **GitHub:** [JORSIECHARTE](https://github.com/JORSIECHARTE)
+- **LinkedIn:** [Professional Profile](https://www.linkedin.com/in/joaquin-orsi-echarte/)
 
 ---
 
 ## Professional Development
 
-My professional development combines structured technical education, hands-on cybersecurity practice, and software engineering projects.
+My professional development combines technical education, hands-on cybersecurity practice, and software engineering projects.
 
-I focus on building practical solutions, strengthening security knowledge, and continuously expanding my capabilities in cybersecurity and software development.
+I focus on strengthening my capabilities in cybersecurity, ethical hacking, network security, Python automation, and secure software development.
+
+My goal is to apply technical knowledge to practical challenges while continuously improving my skills through structured learning and real-world projects.
