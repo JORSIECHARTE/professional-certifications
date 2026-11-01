@@ -53,7 +53,11 @@ This repository showcases my completed certifications and training from institut
 
 ## Cloud Computing
 
-- [Google Cloud Computing Foundations Certificate](cloud-computing/README.md) — Google Cloud, November 2026. [Verify on Credly](https://www.credly.com/badges/d5699f91-1908-4860-af33-be43095e9f29/public_url)
+| Certification | Institution | Year |
+|---|---|---|
+| [Google Cloud Computing Foundations Certificate](cloud-computing/README.md) | Google Cloud | 2026 |
+
+**Credential Verification:** [View Verified Badge on Credly](https://www.credly.com/badges/d5699f91-1908-4860-af33-be43095e9f29/public_url)
 
 ---
 
